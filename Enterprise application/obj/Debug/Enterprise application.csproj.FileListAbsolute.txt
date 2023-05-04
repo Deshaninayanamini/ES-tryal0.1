@@ -13,3 +13,18 @@ C:\Users\User\Desktop\vs\Enterprise application\Enterprise application\obj\Debug
 C:\Users\User\Desktop\vs\Enterprise application\Enterprise application\obj\Debug\Enterprise application.exe
 C:\Users\User\Desktop\vs\Enterprise application\Enterprise application\obj\Debug\Enterprise application.pdb
 C:\Users\User\Desktop\vs\Enterprise application\Enterprise application\obj\Debug\Enterprise_application.Form2.resources
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\bin\Debug\Enterprise application.exe
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\bin\Debug\Enterprise application.pdb
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\bin\Debug\CircularProgressBar.dll
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\bin\Debug\WinFormAnimation.dll
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\bin\Debug\CircularProgressBar.xml
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\bin\Debug\WinFormAnimation.xml
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise application.csproj.AssemblyReference.cache
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise_application.Form1.resources
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise_application.Form2.resources
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise_application.Properties.Resources.resources
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise application.csproj.GenerateResource.cache
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise application.csproj.CoreCompileInputs.cache
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise application.csproj.CopyComplete
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise application.exe
+C:\Users\DESHANI\Desktop\Es Trial deshani\ES-tryal0.1\Enterprise application\obj\Debug\Enterprise application.pdb
